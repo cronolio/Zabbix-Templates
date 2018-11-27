@@ -6,4 +6,4 @@ All what you need it is:
 3. add docker_host_template.xml template to host with docker containers
 
 
-This template will not create zabbix host for docker services like nginx.qtqt3wq... Because hash after dot on each restart randomly changed and zabbix cannot change host name for autocreated host. Maintain/create such host manually.
+This template will not create zabbix host for docker service like nginx.qtqt3wq... Because hash after dot on each restart randomly changed and zabbix cannot change host name for autocreated host. Maintain/create such host manually.
